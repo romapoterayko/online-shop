@@ -54,5 +54,12 @@
         "image": "tesla-roadster.jpg",
         "description": "Best sports car in the World",
         "price": 249999.99
+    },
+    {
+        "id": "9",
+        "title": "Shelby Mustang",
+        "image": "mustang.jpg",
+        "description": "Best sports car in the World",
+        "price": 559999.99  
     }
 ]
